@@ -1,0 +1,12 @@
+{
+  "name": "binarysearch_geek",
+  "version": "1.0.0",
+  "description": "To find an element in a sorted array in logn time",
+  "license": "ISC",
+  "author": "Ash",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

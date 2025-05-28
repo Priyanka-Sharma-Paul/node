@@ -1,0 +1,23 @@
+{
+  "name": "array-wizzard",
+  "version": "1.0.0",
+  "description": "A utility library offering handy array function like sum, average, unique and more",
+  "license": "ISC",
+  "author": "Ash",
+  "type": "module",
+  "main": "index.js",
+  "keywords": [
+    "array",
+    "utility",
+    "sum",
+    "average",
+    "unique",
+    "javascript",
+    "functions",
+    "helpers",
+    "array-tools"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
