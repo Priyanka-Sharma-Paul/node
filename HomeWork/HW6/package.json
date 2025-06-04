@@ -1,15 +1,16 @@
 {
-  "name": "simplemiddleware",
+  "name": "request-logger",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Piyush",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^5.1.0",
+    "morgan": "^1.10.0"
   }
 }
